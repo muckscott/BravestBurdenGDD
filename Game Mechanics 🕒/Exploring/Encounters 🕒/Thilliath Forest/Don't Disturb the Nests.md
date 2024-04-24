@@ -1,1 +1,0 @@
-Hitting the nests will unleash hundreds of flesh-eating centipedes upon the party.
