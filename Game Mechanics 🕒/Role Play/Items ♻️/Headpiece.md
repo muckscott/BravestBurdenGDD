@@ -1,0 +1,1 @@
+A piece of [[Equipment]] which goes on the *Headpiece Slot*.

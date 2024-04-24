@@ -1,0 +1,1 @@
+Stormy weather appears, this impacts the velocities for unit movement and physical projectiles for a time

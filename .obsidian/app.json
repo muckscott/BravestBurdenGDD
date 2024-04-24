@@ -1,0 +1,9 @@
+{
+  "spellcheck": true,
+  "alwaysUpdateLinks": true,
+  "readableLineLength": false,
+  "promptDelete": false,
+  "userIgnoreFilters": [
+    "_Tracking/Daily Logs/"
+  ]
+}

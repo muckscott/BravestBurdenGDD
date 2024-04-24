@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "79eb41f3dceee716",
+    "type": "split",
+    "children": [
+      {
+        "id": "3938d0e4678424f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d535de9de1f492e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Step 1 - Design/Progression/Items/Equipment.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c9bf5426080e123e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Step 1 - Design/Progression/Items/Items.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3fe4e0da042e184d",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "_Tracking/Kanban.md"
+              }
+            }
+          },
+          {
+            "id": "8af1b122587ba099",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Step 1 - Design/Gameplay Loop/Encounters/Campsites.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7fe8800956d0a24b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Step 1 - Design/Core Design Pillars/Deliberate Real-Time Combat.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "77c8e93243c02b79",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "64255dcd77c66d0b",
+    "type": "split",
+    "children": [
+      {
+        "id": "7cdec1ef1840ab8e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eeeb1fa144bcaf06",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "06f2d8639651cabc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#empty",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "64ad9665c40dc5fd",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4f7f02094afcd1dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "76ed2b4348a4ddcb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "00756a43a88e4982",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2be076f6df559916",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cb75ba37b8b378f0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8911dd34d3010f66",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "d753efad91a65c96",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "periodic-notes:Open today": false,
+      "random-note:Open random note": false
+    }
+  },
+  "active": "77c8e93243c02b79",
+  "lastOpenFiles": [
+    "Step 1 - Design/Core Design Pillars/Character Progression.md",
+    "Untitled.canvas",
+    "_Tracking/Kanban.md",
+    "Step 1 - Design/Progression/Items/Items.md",
+    "Step 1 - Design/Core Design Pillars/Evocative Story & Lore.md",
+    "Step 1 - Design/Cooperative Gameplay/Communication/Text Chat System.md",
+    "Step 1 - Design/Cooperative Gameplay/Communication/Quick Communication Wheel.md",
+    "Step 1 - Design/Cooperative Gameplay/Communication/Player Communication.md",
+    "Step 1 - Design/Cooperative Gameplay/Communication/Ping system.md",
+    "Step 1 - Design/The Light.md"
+  ]
+}
